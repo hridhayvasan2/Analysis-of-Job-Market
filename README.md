@@ -10,14 +10,22 @@ The underlying dataset includes: Job ID, Job Title, Company, Company Type, Indus
 
 Worksheets
 
-Salary Based on Cities — Compares salary across Indian cities, filterable by Experience Level and Job Type.
-Company's Salary Based on Their Work Mode — Shows how salary varies by company and work arrangement (remote/hybrid/on-site), with filters for Experience Level and Company.
-Median Salary Based on Skills — Highlights which technical skills command higher median salaries, with an Experience Level filter.
-Salary Based on Job Title and Work Mode — Cross-analyses job titles against work modes to surface salary differences.
-Cities and Their Work Mode Based Salary — Combines city-level and work-mode salary data, filterable by Experience Level.
-Salary Based on Industry — Breaks down compensation across industries, with an Experience Level filter.
-Avg Salary Based on Cities and Their Work Mode — A more focused view of average salary by city and work arrangement.
-Cities and Their Average Salary — A high-level city-wise average salary summary.
+[Salary Based on Cities](https://public.tableau.com/app/profile/hridhay.vasan/viz/analysisofjobmarketsSalarybasedoncities/Sheet1) — Compares salary across Indian cities, filterable by Experience Level and Job Type.
+
+
+[Company's Salary Based on Their Work Mode](https://public.tableau.com/app/profile/hridhay.vasan/viz/analysisofjobmarketsCompanyssalarybasedontheirworkmode/Sheet2) — Shows how salary varies by company and work arrangement (remote/hybrid/on-site), with filters for Experience Level and Company.
+
+
+[Median Salary Based on Skills](https://public.tableau.com/app/profile/hridhay.vasan/viz/analysisofjobmarketsMedianSalarybasedonskills/Sheet3) — Highlights which technical skills command higher median salaries, with an Experience Level filter.
+
+
+[Salary Based on Job Title and Work Mode](https://public.tableau.com/app/profile/hridhay.vasan/viz/analysisofjobmarketssalarybasedonJobTitleanditsworkmode/Sheet4) — Cross-analyses job titles against work modes to surface salary differences.
+
+
+[Salary Based on Industry](https://public.tableau.com/app/profile/hridhay.vasan/viz/analysisofjobmarketsSalaryBasedonIndustry/Sheet6) — Breaks down compensation across industries, with an Experience Level filter.
+
+
+[Avg Salary Based on Cities and Their Work Mode](https://public.tableau.com/app/profile/hridhay.vasan/viz/analysisofjobmarketsavgsalarybasedoncitiesandthierrespectedworkmode/Sheet8) — A more focused view of average salary by city and work arrangement.
 
 
 Key Themes
